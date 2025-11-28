@@ -14,12 +14,11 @@ body{
     height: 100vh;
 }
 .all-contener{
-    background-color: #939f;
+    background-color: #ffff;
     border-radius: 30px;
     height: 100%;
     width: 100%;
     text-align: center;
-    border-color: #0000;
     width: 768px;
     max-width: 100%;
     min-height: 480px;
