@@ -12,6 +12,7 @@ body{
     display: flex;
     justify-content: center;
     height: 100vh;
+    
 }
 .all-contener{
     background-color: #ffff;
@@ -28,11 +29,16 @@ body{
 .form{
     display: flex;
     flex-direction: column;
+    text-decoration: none;
 }
 
 .form input{
     padding: 10px 15px;
-    background-color: #333;
-    color: #FFFF;
+    background-color: #444;
     
+}
+
+.form button{
+    padding: 10px;
+    border-color: beige;
 }
